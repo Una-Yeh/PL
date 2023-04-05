@@ -9,6 +9,10 @@
 - 系級:科技應用與人力資源發展學系 二年級
 
 ## 課程筆記區
+
+- [Kaggle(數據建模和數據分析競賽平台)](https://www.kaggle.com/)
+- [Plotly Python Graphing Library](https://plotly.com/python/)
+
 ## 作業繳交區
 
 - [作業一(關於Chocolate Bar Ratings的10個問題)](https://github.com/Una-Yeh/PL/blob/main/hw1/hw1.ipynb)
