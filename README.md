@@ -12,7 +12,7 @@
 ## 作業繳交區
 
 - [作業一(關於Chocolate Bar Ratings的10個問題)](https://github.com/Una-Yeh/PL/blob/main/hw1/hw1.ipynb)
-- [作業二(資料視覺化):問題內容和圖表程式碼均在連結內](https://github.com/Una-Yeh/PL/blob/main/hw2/hw2.ipynb)
+- [作業二(資料視覺化)](https://github.com/Una-Yeh/PL/blob/main/hw2/hw2.ipynb):問題內容和圖表程式碼均在連結內
   - 【Q1】
 ![1](https://github.com/Una-Yeh/PL/blob/main/hw2/1.PNG)
   - 【Q2】
