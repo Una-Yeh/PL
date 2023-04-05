@@ -10,4 +10,7 @@
 
 ## 課程筆記區
 ## 作業繳交區
+
+- [作業一(Question)](https://github.com/Una-Yeh/PL/blob/main/hw1.ipynb)
+
 ## 期末專題區
