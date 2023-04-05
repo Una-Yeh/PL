@@ -13,6 +13,11 @@
 
 - [作業一(Question)](https://github.com/Una-Yeh/PL/blob/main/hw1.ipynb)
 - [作業二(資料視覺化)](https://github.com/Una-Yeh/PL/blob/main/hw2.ipynb)
+ - 【Q1】
 ![1](https://github.com/Una-Yeh/PL/blob/main/hw2/1.PNG)
+ - 【Q2】
+![2](https://github.com/Una-Yeh/PL/blob/main/hw2/2.PNG)
+ - 【Q3】
+![3](https://github.com/Una-Yeh/PL/blob/main/hw2/3.PNG)
 
 ## 期末專題區
