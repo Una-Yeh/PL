@@ -16,12 +16,12 @@
 ## 作業繳交區
 
 - [作業一(關於Chocolate Bar Ratings的10個問題)](https://github.com/Una-Yeh/PL/blob/main/hw1/hw1.ipynb)
-- [作業二(資料視覺化)](https://github.com/Una-Yeh/PL/blob/main/hw2/hw2.ipynb) : 詳細問題內容&圖表程式碼均在連結內 ,以下為各題答案之圖表數據(均為同一圖表)
-  - 【Q1】
+- [作業二(資料視覺化)](https://github.com/Una-Yeh/PL/blob/main/hw2/hw2.ipynb) : 詳細答案內容&圖表程式碼均在連結內 ,以下為各題答案之圖表數據(均為同一圖表)
+  - 【Q1】2002年的年度最高銷售總額在哪一地區?
 ![1](https://github.com/Una-Yeh/PL/blob/main/hw2/1.PNG)
-  - 【Q2】
+  - 【Q2】1980-2020年的全球(Global_Sales)年度最高銷售總額為多少(millions)?
 ![2](https://github.com/Una-Yeh/PL/blob/main/hw2/2.PNG)
-  - 【Q3】
+  - 【Q3】歐洲(EU_Sales)的年度最高銷售總額在哪一年?
 ![3](https://github.com/Una-Yeh/PL/blob/main/hw2/3.PNG)
 
 ## 期末專題區
