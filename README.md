@@ -12,5 +12,7 @@
 ## 作業繳交區
 
 - [作業一(Question)](https://github.com/Una-Yeh/PL/blob/main/hw1.ipynb)
+- [作業二(資料視覺化)](https://github.com/Una-Yeh/PL/blob/main/hw2.ipynb)
+![1](https://github.com/Una-Yeh/PL/blob/main/hw2/1.PNG)
 
 ## 期末專題區
