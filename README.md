@@ -25,7 +25,7 @@
   - 【Q3】歐洲(EU_Sales)的年度最高銷售總額在哪一年?
 ![3](https://github.com/Una-Yeh/PL/blob/main/hw2/3.PNG)
 
-- [作業三(2023台北美食推薦)](https://github.com/Una-Yeh/PL/blob/main/hw3/hw3.ipynb):以下檔案為各類美食的餐廳店名
+- [作業三(2023台北美食推薦)](https://github.com/Una-Yeh/PL/blob/main/hw3/hw3.ipynb) : 以下檔案為各類美食的餐廳店名
 
   - [json](https://github.com/Una-Yeh/PL/blob/main/hw3/strong_list.json)
   - [csv](https://github.com/Una-Yeh/PL/blob/main/hw3/strong_list.csv)
