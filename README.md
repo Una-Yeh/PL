@@ -12,6 +12,7 @@
 
 - [Kaggle(數據建模和數據分析競賽平台)](https://www.kaggle.com/)
 - [Plotly Python Graphing Library](https://plotly.com/python/)
+- [資料彙整&資料視覺化(Github)](https://github.com/pecu/LawTech/tree/main/Learning-Materials/C5_Python_%E8%B3%87%E6%96%99%E5%BD%99%E6%95%B4%26%E8%B3%87%E6%96%99%E8%A6%96%E8%A6%BA%E5%8C%96)
 
 ## 作業繳交區
 
