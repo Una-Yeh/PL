@@ -1,0 +1,6 @@
+Data visualization is commonly used to spur idea generation across teams. They are 
+frequently leveraged during brainstorming or Design Thinking sessions at the start of a 
+project by supporting the collection of different perspectives and highlighting the 
+common concerns of the collective. While these visualizations are usually unpolished and 
+unrefined, they help set the foundation within the project to ensure that the team is 
+aligned on the problem that they’re looking to address for key stakeholders.
