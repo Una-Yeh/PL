@@ -1,0 +1,9 @@
+Data visualization for idea illustration assists in conveying an idea, such as a tactic or 
+process. It is commonly used in learning settings, such as tutorials, certification courses, 
+centers of excellence, but it can also be used to represent organization structures or 
+processes, facilitating communication between the right individuals for specific tasks. 
+Project managers frequently use Gantt charts and waterfall charts to 
+illustrate workflows. Data modeling also uses abstraction to represent and better 
+understand data flow within an enterprise’s information system, making it easier for 
+developers, business analysts, data architects, and others to understand the 
+relationships in a database or data warehouse.
