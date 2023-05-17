@@ -36,4 +36,8 @@
   - [medium(常見濫用管制藥品資訊)](https://medium.com/@una812688/%E5%B8%B8%E8%A6%8B%E6%BF%AB%E7%94%A8%E7%AE%A1%E5%88%B6%E8%97%A5%E5%93%81%E8%B3%87%E8%A8%8A-9ceb2da9651e)
   - [藥品說明詞頻長條圖](https://github.com/Una-Yeh/PL/blob/main/hw4/normal.PNG)
 
+- [作業五(文本共現『Co-occurrence』分析)](https://github.com/Una-Yeh/PL/blob/main/hw5/hw5.ipynb)
+
+  - [medium(常見濫用管制藥品資訊2)](https://medium.com/@una812688/%E5%B8%B8%E8%A6%8B%E6%BF%AB%E7%94%A8%E7%AE%A1%E5%88%B6%E8%97%A5%E5%93%81%E8%B3%87%E8%A8%8A%EF%BC%92-4d638ca411ea)
+
 ## 期末專題區
