@@ -42,3 +42,7 @@
   - [藥物危害詞條共現熱力圖](https://github.com/Una-Yeh/PL/blob/main/hw5/map2.PNG)
 
 ## 期末專題區
+
+- [111-2台師大科技系程式語言-每日重點國際新聞摘錄(youtube)](https://www.youtube.com/watch?v=__vUOA18ID8)
+- [111-2台師大科技系程式語言-每日重點國際新聞摘錄(簡報)](https://docs.google.com/presentation/d/1fl79hQGoWhhv4rNf9U5AbT8hTQVg71c6JVIl2KYNlnA/edit?usp=sharing)
+- [111-2台師大科技系程式語言-每日重點國際新聞摘錄(程式碼)](https://github.com/PYH1107/PL/tree/main/%E6%9C%9F%E6%9C%AB%E5%B0%88%E9%A1%8C)
